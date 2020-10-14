@@ -1,0 +1,19 @@
+{
+  "name": "zms",
+  "version": "1.0.0",
+  "description": "web aplikacija",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inasahmic/zms.git"
+  },
+  "author": "Inas Ahmic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inasahmic/zms/issues"
+  },
+  "homepage": "https://github.com/inasahmic/zms#readme"
+}
