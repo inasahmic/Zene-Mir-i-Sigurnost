@@ -220,7 +220,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   white-space: nowrap;
   float: left;
-  padding-left: 30px;
+  padding-left: 20px;
 }
 
 .main-nav a {
